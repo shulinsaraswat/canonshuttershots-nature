@@ -30,7 +30,7 @@ export default class Sidebar extends Component{
     }
     handleMouseLeave(e){
         let element = document.getElementById('mySidebar')
-        ReactDOM.findDOMNode(element).style.width="70px";
+        ReactDOM.findDOMNode(element).style.width='5%';
         ReactDOM.findDOMNode(element).style.opacity="1.0";
     }
     render(){

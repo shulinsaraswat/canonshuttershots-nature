@@ -3,11 +3,13 @@
 }
 .banner-nr{
     text-align:left;
-    margin-left:155px;
+    margin-left:14%;
+    font-family: 'Dancing Script', cursive;
+
 }
 .line-nr{
     text-align:left;
-    margin-left:13%;
+    margin-left:15%;
     width:8%;
     color:#00a2c8;
     background-color:#00a2c8;

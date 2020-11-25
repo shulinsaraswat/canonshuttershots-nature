@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
             backgroundColor: 'rgb(220,220,220,0.7)',
         },
         [theme.breakpoints.up('lg')]: {
-            right: '4.5%',
+            right: '4%',
         },
     }
 })

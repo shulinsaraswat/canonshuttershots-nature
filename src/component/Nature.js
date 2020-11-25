@@ -39,7 +39,7 @@ export default function Nature(){
             </div><br/>
             <div className="background-nr">
             <div className="container"><br/>
-                <div className="row row-cols-1 row-cols-md-3">
+                <div className="row row-cols-1 row-cols-md-3" style={{marginLeft:'2%'}}>
                     <div className="col mb-4">
                         <div className="card box-nr">
                         <img src={nr1} className="card-img-top" alt="Kandy"/>
