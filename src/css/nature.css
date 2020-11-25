@@ -7,6 +7,9 @@
     font-family: 'Dancing Script', cursive;
 
 }
+.body-nr{
+    margin-left:2%;
+}
 .line-nr{
     text-align:left;
     margin-left:15%;
@@ -49,7 +52,7 @@
     }
     .line-nr{
         margin-left:16%;
-        width:29%;
+        width:24%;
         color:#00a2c8;
         background-color:#00a2c8;
     }
@@ -58,6 +61,9 @@
     }
     .nr11{
         margin-top:-5%;
+    }
+    .body-nr{
+        margin-left:0;
     }
 }
 
@@ -68,7 +74,7 @@
     }
     .line-nr{
         margin-left:17%;
-        width:38%;
+        width:31%;
         color:#00a2c8;
         background-color:#00a2c8;
     }
@@ -77,5 +83,8 @@
     }
     .nr11{
         margin-top:-5%;
+    }
+    .body-nr{
+        margin-left:0;
     }
 }
