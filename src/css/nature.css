@@ -1,0 +1,79 @@
+.background-nr{
+    background-image:url('https://i.pinimg.com/originals/1c/51/55/1c5155b5974301277b45f4ddaae722b0.jpg');
+}
+.banner-nr{
+    text-align:left;
+    margin-left:155px;
+}
+.line-nr{
+    text-align:left;
+    margin-left:13%;
+    width:8%;
+    color:#00a2c8;
+    background-color:#00a2c8;
+}
+.box-nr{
+    padding:20px;
+    margin:2%;
+    background:white;
+    border:1px solid #d6d6d6;
+    box-shadow:0 2px 3px 0px rgba(0,0,0,0.25);
+    border-radius:3px;
+    transition:.2s all; 
+}
+.hero1{
+    margin-top:-68%;
+}
+.nr4{
+    margin-top:-67%;
+}
+.nr12{
+    margin-top:-81%;
+}
+.banner{
+    margin-top:-72%;
+}
+.nr6{
+    margin-top:-110%;
+}
+.nr11{
+    margin-top:-105%;
+}
+
+@media (min-width: 320.90px) and (max-width: 768.98px){
+    .banner-nr{
+        margin-left: 11%;
+        margin-top: 7%;
+    }
+    .line-nr{
+        margin-left:16%;
+        width:29%;
+        color:#00a2c8;
+        background-color:#00a2c8;
+    }
+    .hero1, .nr4, .nr12, .banner, .nr6{
+        margin-top: 0px;
+    }
+    .nr11{
+        margin-top:-5%;
+    }
+}
+
+@media(max-width:320.98px){
+    .banner-nr{
+        margin-left: 11%;
+        margin-top: 7%;
+    }
+    .line-nr{
+        margin-left:17%;
+        width:38%;
+        color:#00a2c8;
+        background-color:#00a2c8;
+    }
+    .hero1, .nr4, .nr12, .banner, .nr6{
+        margin-top: 0px;
+    }
+    .nr11{
+        margin-top:-5%;
+    }
+}
