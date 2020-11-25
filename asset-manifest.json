@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/canonshuttershots-nature/static/css/main.2fada5e4.chunk.css",
+    "main.js": "/canonshuttershots-nature/static/js/main.dab865b3.chunk.js",
+    "main.js.map": "/canonshuttershots-nature/static/js/main.dab865b3.chunk.js.map",
+    "runtime-main.js": "/canonshuttershots-nature/static/js/runtime-main.9da919e8.js",
+    "runtime-main.js.map": "/canonshuttershots-nature/static/js/runtime-main.9da919e8.js.map",
+    "static/css/2.ec02d681.chunk.css": "/canonshuttershots-nature/static/css/2.ec02d681.chunk.css",
+    "static/js/2.d0014675.chunk.js": "/canonshuttershots-nature/static/js/2.d0014675.chunk.js",
+    "static/js/2.d0014675.chunk.js.map": "/canonshuttershots-nature/static/js/2.d0014675.chunk.js.map",
+    "static/js/3.02f22007.chunk.js": "/canonshuttershots-nature/static/js/3.02f22007.chunk.js",
+    "static/js/3.02f22007.chunk.js.map": "/canonshuttershots-nature/static/js/3.02f22007.chunk.js.map",
+    "index.html": "/canonshuttershots-nature/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/canonshuttershots-nature/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.2fada5e4.chunk.css.map": "/canonshuttershots-nature/static/css/main.2fada5e4.chunk.css.map",
+    "static/js/2.d0014675.chunk.js.LICENSE.txt": "/canonshuttershots-nature/static/js/2.d0014675.chunk.js.LICENSE.txt",
+    "static/media/banner.af6730a6.jpeg": "/canonshuttershots-nature/static/media/banner.af6730a6.jpeg",
+    "static/media/hero1.9f3f63b8.jpg": "/canonshuttershots-nature/static/media/hero1.9f3f63b8.jpg",
+    "static/media/nature.d930067b.jpeg": "/canonshuttershots-nature/static/media/nature.d930067b.jpeg",
+    "static/media/nr1.3ea34dca.jpg": "/canonshuttershots-nature/static/media/nr1.3ea34dca.jpg",
+    "static/media/nr11.5354c875.jpeg": "/canonshuttershots-nature/static/media/nr11.5354c875.jpeg",
+    "static/media/nr12.5e3dd233.jpg": "/canonshuttershots-nature/static/media/nr12.5e3dd233.jpg",
+    "static/media/nr2.411f2115.jpeg": "/canonshuttershots-nature/static/media/nr2.411f2115.jpeg",
+    "static/media/nr3.451d1ee8.jpeg": "/canonshuttershots-nature/static/media/nr3.451d1ee8.jpeg",
+    "static/media/nr4.2d442566.jpeg": "/canonshuttershots-nature/static/media/nr4.2d442566.jpeg",
+    "static/media/nr5.9ce80022.jpeg": "/canonshuttershots-nature/static/media/nr5.9ce80022.jpeg",
+    "static/media/nr6.b07b19cb.jpeg": "/canonshuttershots-nature/static/media/nr6.b07b19cb.jpeg",
+    "static/media/nr7.dfa6b47d.jpeg": "/canonshuttershots-nature/static/media/nr7.dfa6b47d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9da919e8.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.d0014675.chunk.js",
+    "static/css/main.2fada5e4.chunk.css",
+    "static/js/main.dab865b3.chunk.js"
+  ]
+}
