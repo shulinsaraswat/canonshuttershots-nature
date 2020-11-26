@@ -65,6 +65,9 @@
     .body-nr{
         margin-left:0;
     }
+    .container{
+        padding-left:0;
+    }
 }
 
 @media(max-width:320.98px){
@@ -86,5 +89,8 @@
     }
     .body-nr{
         margin-left:0;
+    }
+    .container{
+        padding-left:0;
     }
 }

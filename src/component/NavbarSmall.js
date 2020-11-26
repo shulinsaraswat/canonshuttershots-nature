@@ -32,7 +32,7 @@ export default class NavbarSmall extends Component{
                 <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link" href="/canonshuttershots-nature"><span><i className="material-icons "><EcoIcon/></i></span><span className="icon-text"> &emsp;Nature</span></a><br/>
+                            <a className="nav-link selected-nr" href="/canonshuttershots-nature"><span><i className="material-icons "><EcoIcon/></i></span><span className="icon-text"> &emsp;Nature</span></a><br/>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="https://shulinsaraswat.github.io/canonshuttershots-people"><span><i className="material-icons "><PeopleAltIcon/></i></span><span className="icon-text"> &emsp;People</span></a><br/>
