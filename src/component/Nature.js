@@ -41,59 +41,125 @@ export default function Nature(){
             <div className="container"><br/>
                 <div className="row row-cols-1 row-cols-md-3 body-nr">
                     <div className="col mb-4">
-                        <div className="card box-nr">
+                        <div className="card box-nr hovereffect">
                         <img src={nr1} className="card-img-top" alt="Kandy"/>
+                        <div class="overlay">
+                            <h2>Kandy, SriLanka</h2>
+                            <p>
+                                <span>Canon 650D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr">
+                        <div className="card box-nr hovereffect">
                         <img src={nr2} className="card-img-top" alt="Kandy"/>
+                        <div class="overlay">
+                            <h2>Munnar, India</h2>
+                            <p>
+                                <span>Canon 450D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr">
+                        <div className="card box-nr hovereffect">
                         <img src={nr3} className="card-img-top" alt="Kandy"/>
+                        <div class="overlay">
+                            <h2>Kandy, SriLanka</h2>
+                            <p>
+                                <span> Canon 650D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr hero1">
+                        <div className="card box-nr hero1 hovereffect">
                         <img src={hero1} className="card-img-top" alt="Goa"/>
+                        <div class="overlay">
+                            <h2>Goa, India</h2>
+                            <p>
+                                <span> Canon 450D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr">
+                        <div className="card box-nr hovereffect">
                         <img src={nr5} className="card-img-top" alt="Munnar"/>
+                        <div class="overlay">
+                            <h2>Munnar, India</h2>
+                            <p>
+                                <span> Canon 450D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr nr4">
+                        <div className="card box-nr nr4 hovereffect">
                         <img src={nr4} className="card-img-top" alt="Bangalore"/>
+                        <div class="overlay">
+                            <h2>Bannerghatta, India</h2>
+                            <p>
+                                <span> Canon 650D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr nr12">
+                        <div className="card box-nr nr12 hovereffect">
                         <img src={nr12} className="card-img-top" alt="Hampi"/>
+                        <div class="overlay">
+                            <h2>Badami, India</h2>
+                            <p>
+                                <span> Canon 450D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr">
+                        <div className="card box-nr hovereffect">
                         <img src={nr7} className="card-img-top" alt="Vellore"/>
+                        <div class="overlay">
+                            <h2>Hampi, India</h2>
+                            <p>
+                                <span> Canon 450D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr banner">
+                        <div className="card box-nr banner hovereffect">
                         <img src={banner} className="card-img-top" alt="Hampi"/>
+                        <div class="overlay">
+                            <h2>Bangalore, India</h2>
+                            <p>
+                                <span> Canon 650D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4">
-                        <div className="card box-nr nr6">
+                        <div className="card box-nr nr6 hovereffect">
                         <img src={nr6} className="card-img-top" alt="Bangalore"/>
+                        <div class="overlay">
+                            <h2>Vellore, India</h2>
+                            <p>
+                                <span> Canon 450D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                     <div className="col mb-4"></div>
                     <div className="col mb-4">
-                        <div className="card box-nr nr11">
+                        <div className="card box-nr nr11 hovereffect">
                         <img src={nr11} className="card-img-top" alt="Hampi"/>
+                        <div class="overlay">
+                            <h2>Hampi, India</h2>
+                            <p>
+                                <span> Canon 450D</span>
+                            </p>
+                        </div>
                         </div>
                     </div>
                 </div>
